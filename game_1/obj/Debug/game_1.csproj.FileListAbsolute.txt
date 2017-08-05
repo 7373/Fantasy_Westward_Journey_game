@@ -1,0 +1,14 @@
+c:\users\apple\documents\visual studio 2015\Projects\game_1\game_1\bin\Debug\game_1.exe.config
+c:\users\apple\documents\visual studio 2015\Projects\game_1\game_1\bin\Debug\game_1.exe
+c:\users\apple\documents\visual studio 2015\Projects\game_1\game_1\bin\Debug\game_1.pdb
+c:\users\apple\documents\visual studio 2015\Projects\game_1\game_1\obj\Debug\game_1.csprojResolveAssemblyReference.cache
+c:\users\apple\documents\visual studio 2015\Projects\game_1\game_1\obj\Debug\game_1.Properties.Resources.resources
+c:\users\apple\documents\visual studio 2015\Projects\game_1\game_1\obj\Debug\game_1.csproj.GenerateResource.Cache
+c:\users\apple\documents\visual studio 2015\Projects\game_1\game_1\obj\Debug\game_1.exe
+c:\users\apple\documents\visual studio 2015\Projects\game_1\game_1\obj\Debug\game_1.pdb
+c:\users\apple\documents\visual studio 2015\Projects\game_1\game_1\obj\Debug\game_1.Form1.resources
+c:\users\apple\documents\visual studio 2015\Projects\game_1\game_1\obj\Debug\game_1.Form2.resources
+C:\Users\Apple\documents\visual studio 2015\Projects\game_1\game_1\obj\Debug\game_1.Form3.resources
+C:\Users\Apple\documents\visual studio 2015\Projects\game_1\game_1\obj\Debug\game_1.defeat.resources
+C:\Users\Apple\documents\visual studio 2015\Projects\game_1\game_1\obj\Debug\game_1.victory.resources
+C:\Users\Apple\documents\visual studio 2015\Projects\game_1\game_1\obj\Debug\game_1.Form4.resources
